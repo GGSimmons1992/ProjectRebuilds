@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MidasTouch.AngularClient", "MidasTouch.AngularClient\MidasTouch.AngularClient.csproj", "{368B4E6E-5409-4751-8CCE-4150CAF2B606}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{368B4E6E-5409-4751-8CCE-4150CAF2B606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{368B4E6E-5409-4751-8CCE-4150CAF2B606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{368B4E6E-5409-4751-8CCE-4150CAF2B606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{368B4E6E-5409-4751-8CCE-4150CAF2B606}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEDBB8F7-1384-49F5-998B-44C176B41EC0}
+	EndGlobalSection
+EndGlobal
