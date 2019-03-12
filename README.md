@@ -1,7 +1,7 @@
 # ProjectRebuilds
 Rebuilding projects of my bootcamp with different technologies.
 
-## CatanGuidebook:
+## CatanGuidebook [Original site with semi-functionality here](https://1811-nov12-net.github.io/gary-repo/project_alpha/index):
 Ever feel stuck in a game of Catan. Or even don't even know where to start in a game of Catan. This is a quick guidebook in briefly
 describing the game of Catan and the 4 most popular strategies in winning the game.
 
@@ -10,7 +10,7 @@ describing the game of Catan and the 4 most popular strategies in winning the ga
 ### Replacing/Refactoring technologies:
 Angular, ASP.NET MVC, xUnit ,Entity Framework, SQL Server, MongoDB?, Azure DevOps?, Azure web services?
 
-## PizzaStore: 
+## PizzaStore (No original working site deployed): 
 piZZZa is a 24-hour pizza ordering and delivery service application. Order one of our specialty made pizzas, make-your-own pizza with a variety of ingredients or indulge in a footlong churro. Be sure to check out our other sides, desserts, sauces, and drinks when creating your order. This application not only makes the process of ordering food online easier, but from anywhere at anytime.
 
 ### Original technologies:
